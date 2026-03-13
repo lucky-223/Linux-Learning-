@@ -1,1 +1,33 @@
+# Basic Linux Commands 
+Ls- list files 
+PWD - Show Current Directory
+CD- Change Directory 
+tree- show folder structure 
 
+  File Management 
+ touch filename 
+
+mkdir folder name 
+rm -r foldername "deletes the folder"
+
+    touch filename 
+
+  mkdir foldername 
+
+  Viewing Files
+cat filename 
+  Displays file content
+less filename 
+
+Permissions 
+  chmod 
+Change file permission 
+  chown 
+
+  System commands 
+
+    whoami 
+  Show current user 
+    uname -a 
+shows system information  
+clear
