@@ -1,0 +1,15 @@
+Information Gathering 
+  2 types 
+Active 
+  Kali Linux | Information Target| Website 
+
+Passive | Middle Source | Target Website 
+  ( IP Address/Addresses, Emails, Phone Numbers, Technologies) 
+Possible Exploitation 
+
+# For example, ping a website is considered active 
+nslookup= Search the domain name and find the IP
+
+
+Ping a Website 
+  
