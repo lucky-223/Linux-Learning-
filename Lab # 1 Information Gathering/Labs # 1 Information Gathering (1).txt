@@ -2,14 +2,12 @@ Information Gathering
   2 types 
 Active 
   Kali Linux | Information Target| Website 
-
-Passive | Middle Source | Target Website 
+     ( Ping sweeps, Port Scanning, Banner Grabbing)        
+Passive 
+  Passive | Middle Source | Target Website 
   ( IP Address/Addresses, Emails, Phone Numbers, Technologies) 
 Possible Exploitation 
 
-# For example, ping a website is considered active 
-nslookup= Search the domain name and find the IP
-
-
-Ping a Website 
-  
+# For example, ping a website is considered active & Passive 
+nslookup = Search the domain name and find the IP
+whois = Is a tool in passive information gathering to look up public information details of a domain name or IP address  
