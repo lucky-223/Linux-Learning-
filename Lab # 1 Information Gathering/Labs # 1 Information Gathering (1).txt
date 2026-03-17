@@ -1,13 +1,19 @@
 Information Gathering 
-  2 types 
-Active 
+    Information Gathering (reconnaissance) is the first type in cybersecurity, which involves collecting information about a target system or network.  
+
+## Two Types of Information Gathering  
+
+### 1. Active Information Gathering 
+Active reconnaissance involves directly interacting with the target 
   Kali Linux | Information Target| Website 
      ( Ping sweeps, Port Scanning, Banner Grabbing)        
-Passive 
+
+### 2. Passive Information Gathering 
+Passive reconnaissance collects information **Without directly interacting 
   Passive | Middle Source | Target Website 
   ( IP Address/Addresses, Emails, Phone Numbers, Technologies) 
-Possible Exploitation 
 
+Possible Exploitation 
 # For example, ping a website is considered active & Passive 
 nslookup = Search the domain name and find the IP
 whois = Is a tool in passive information gathering to look up public information details of a domain name or IP address  
